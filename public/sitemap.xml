@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+
+<url>
+   <loc>https://selteq.net/</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/software-development</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/web-development</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/app-development</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/it-outsourcing</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/case-study-expert</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/case-study-plexarr</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/live-chat-system</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/banking-and-finance</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/healthcare-and-medical</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/education</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/e-commerce</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/erp</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/about-us</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/blog</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://selteq.net/contact-us</loc>
+   <lastmod>2023-03-02T15:20:17+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+</urlset>
